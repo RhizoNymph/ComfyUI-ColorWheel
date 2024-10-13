@@ -1,4 +1,4 @@
-#ComfyUI-ColorWheel
+# ComfyUI-ColorWheel
 
 I made this to show the dominant colors in an image on a color wheel.
 
